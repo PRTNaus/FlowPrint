@@ -1,3 +1,30 @@
+# ⚠️ Project Status: On Hold
+
+This project is currently **on hold**.
+
+Due to time constraints and other ongoing commitments, I am unable to continue development or commit to a full public release at this stage.
+
+## Future Plans
+
+If there is enough interest in this project, I will:
+
+- Publish the current working version
+- Provide updated documentation and relevant information
+- Outline next steps for anyone interested in continuing or contributing
+
+## Status Summary
+
+- ❌ Active development: Paused  
+- ❌ Public release: Not currently planned  
+- ✅ Possible future release: Depends on community interest  
+
+---
+
+If this project is something you would like to see continued or released, feel free to open an issue or express interest.
+
+
+
+
 # 🖨️ FlowPrint
 
 <div align="center">
